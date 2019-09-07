@@ -5,3 +5,7 @@ vendor
 nbproject
 _site
 .idea/
+# PDT-specific (PHP Development Tools)
+.buildpath
+# Eclipse Core
+.project
